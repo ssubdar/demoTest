@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editableResource createdTimestamp="1777558477461"
+    createdUser="sachas.subdar" id="59ef8882:19ddebb6528:-7ad5"
+    selfDescribing="properties"
+    syncSourceDetails="-86c2273:16db019c7fb:-7f6b"
+    type="swagger_definition" updatedTimestamp="1777558477477"
+    updatedUser="sachas.subdar" version="1.0">
+    <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
+    <resourceConfig locationtype="102">
+        <locationURI>https://demo.testfire.net/swagger/properties.json</locationURI>
+    </resourceConfig>
+</editableResource>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editableResource createdTimestamp="1744797679236"
+    createdUser="sachas.subdar" id="-2ed52f5:1963e0b579e:-7ea9"
+    selfDescribing="rest"
+    syncSourceDetails="-1c336c3c:195c8cf6f8b:-338a"
+    type="swagger_definition" updatedTimestamp="1744797679251"
+    updatedUser="sachas.subdar" version="1.0">
+    <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
+    <resourceConfig locationtype="102">
+        <locationURI>http://dp1-ap-51794357.prod.hclpnp.com:9067/CreditManagement/rest/swagger.json</locationURI>
+    </resourceConfig>
+</editableResource>

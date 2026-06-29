@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editableResource createdTimestamp="1782724585285"
+    createdUser="sachas.subdar" id="-2707852:19f12a75e44:-7d45"
+    selfDescribing="addNumbers"
+    syncSourceDetails="-86c2273:16db019c7fb:-7f6b"
+    type="wsdl_service_component" updatedTimestamp="1782724585293"
+    updatedUser="sachas.subdar" version="1.0">
+    <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
+    <resourceConfig>
+        <wsdl id="-2707852:19f12a75e44:-7d40" name="addNumbers"/>
+    </resourceConfig>
+</editableResource>
