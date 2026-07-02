@@ -2,7 +2,7 @@
 <editableResource createdTimestamp="1782724596562"
     createdUser="sachas.subdar" id="-2707852:19f12a75e44:-7c96"
     references="-2707852:19f12a75e44:-7d45:1731931949:408339756,-2707852:19f12a75e44:-7d40"
-    type="test_resource" updatedTimestamp="1783002502408"
+    type="test_resource" updatedTimestamp="1783002757657"
     updatedUser="sachas.subdar" version="1.1">
     <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
     <resourceConfig description="" name="">
@@ -262,7 +262,7 @@
                             </nodeProcessor>
                             <contentTree>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;addition___INPUT___addition&gt;&#xd;
    &lt;tns:addition xmlns:tns="http://GH.endpoint/"&gt;&#xd;
-      &lt;arg0&gt;0&lt;/arg0&gt;&#xd;
+      &lt;arg0&gt;2&lt;/arg0&gt;&#xd;
       &lt;arg1&gt;2&lt;/arg1&gt;&#xd;
    &lt;/tns:addition&gt;&#xd;
 &lt;/addition___INPUT___addition&gt;<defaultActions>
@@ -376,7 +376,7 @@
                                     ignoreNonPresent="false" type="100"/>
                                     </fieldAction>
                                 </fieldActionGroup>
-                                <_c meTy="String" name="Content-Type"
+                                <_c meTy="String" name="content-type"
                                     sch="Http Receive Reply" type="7" version="1.2">
                                     <fieldActionGroup>
                                     <fieldAction enabled="false" type="1">
