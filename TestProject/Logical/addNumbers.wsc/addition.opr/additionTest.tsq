@@ -2,7 +2,7 @@
 <editableResource createdTimestamp="1782724596562"
     createdUser="sachas.subdar" id="-2707852:19f12a75e44:-7c96"
     references="-2707852:19f12a75e44:-7d45:1731931949:408339756,-2707852:19f12a75e44:-7d40"
-    type="test_resource" updatedTimestamp="1783002757657"
+    type="test_resource" updatedTimestamp="1783003148320"
     updatedUser="sachas.subdar" version="1.1">
     <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
     <resourceConfig description="" name="">
@@ -13,7 +13,8 @@
                 type="send_request_action" version="1.1">
                 <loggingConfiguration debug="false"
                     resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
-                <resourceConfig description="" formatter="HTTP_Message"
+                <resourceConfig description="adding numbers"
+                    formatter="HTTP_Message"
                     name="&quot;Text&quot; on resource &quot;/addNumbers&quot; using schema &quot;Text&quot; via &quot;AddNumbersPort&quot;" transport="-2707852:19f12a75e44:-7d45:1731931949:408339756">
                     <headerMessage assocdefid="Http Publish"
                         meTy="Message" name="" sch="Http Publish"
